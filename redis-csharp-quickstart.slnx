@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="redis-as-cache-side/redis-as-cache-side.csproj" />
+  <Project Path="redis-as-primary-database/redis-as-primary-database.csproj" />
+</Solution>

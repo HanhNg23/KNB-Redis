@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "redis-as-cache-side.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "..\\redis-as-primary-database\\redis-as-primary-database.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
