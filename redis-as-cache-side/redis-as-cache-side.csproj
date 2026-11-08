@@ -6,7 +6,6 @@
     <RootNamespace>redis-as-cache-side</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <UserSecretsId>2e7b2d3f-352c-4236-ad92-341e32ad3076</UserSecretsId>
   </PropertyGroup>
 
   <ItemGroup>
